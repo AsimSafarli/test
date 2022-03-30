@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CACX;EACE,gBAAgB,EAAE,mBAAmB;EACrC,eAAe,EAAE,KAAK;CACvB",
+    "sources": [
+        "28may.scss"
+    ],
+    "names": [],
+    "file": "28may.css"
+}
